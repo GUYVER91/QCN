@@ -13,10 +13,10 @@
 	<Stream Name="00000002" Length="28" Value="2F 6E 76 2F 69 74 65 6D 5F 66 69 6C 65 73 2F 72 66 6E 76 2F 30 30 30 32 35 32 34 35 "/>
 	<Stream Name="00000003" Length="28" Value="2F 6E 76 2F 69 74 65 6D 5F 66 69 6C 65 73 2F 72 66 6E 76 2F 30 30 30 32 38 34 34 37 "/>
 	</Storage><Storage Name="EFS_Data">
-	<Stream Name="00000000" Length="8" Value="05 00 00 00 00 00 00 00 "/>
-	<Stream Name="00000001" Length="8" Value="40 00 00 00 00 00 00 00 "/>
-	<Stream Name="00000002" Length="8" Value="00 00 00 00 20 00 00 00 "/>
-	<Stream Name="00000003" Length="33" Value="78 9C 63 D0 D4 D4 64 60 D0 D0 D0 60 60 60 64 66 66 60 60 66 66 64 18 05 A3 80 6E 00 00 81 17 01 02 "/>
+	<Stream Name="00000000" Length="8" Value="45 00 00 00 20 00 00 00 "/>
+	<Stream Name="00000001" Length="8" Value="44 00 00 00 00 00 00 00 "/>
+	<Stream Name="00000002" Length="8" Value="04 00 00 00 20 00 00 00 "/>
+	<Stream Name="00000003" Length="40" Value="78 9C ED C4 B1 11 00 30 0C 02 B1 F7 51 B0 0A EC BF 60 BC 44 3A AB 10 6D 21 09 8C 04 D2 6C 36 58 DB 39 7F 3D D2 F4 01 24 "/>
 	</Storage></Storage><Storage Name="Provisioning_Item_Files">
 	<Storage Name="EFS_Dir">
 	</Storage><Storage Name="EFS_Data">
